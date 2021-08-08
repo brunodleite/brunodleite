@@ -4,7 +4,7 @@
 
 🔭 Currently interning as a Data Scientist and AI developer for Neurowood - Computer Vision
 
-🔧 Techs and Tools: Python | SQL | JavaScript
+🔧 Techs and Tools: Python | SQL | JavaScript | HTML
 
 ☕ Curiosity: I love coffee!!
 
