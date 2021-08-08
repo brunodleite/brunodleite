@@ -1,8 +1,8 @@
-- 👋 Hello there! My name is Bruno, I'm industrial engineering, data engineering and data science.
-- 👀 I’m interested in analysing problems and looking for solutions solve them!
-- 🔭 Currently interning as a Data Scientist and AI developer for Neurowood - Computer Vision
-- 🔧 Techs and Tools: Python | SQL | JavaScript
-- ☕ Curiosity: I love coffee!!
+👋 Hello there! My name is Bruno, I'm industrial engineering, data engineering and data science.
+👀 I’m interested in analysing problems and looking for solutions solve them!
+🔭 Currently interning as a Data Scientist and AI developer for Neurowood - Computer Vision
+🔧 Techs and Tools: Python | SQL | JavaScript
+☕ Curiosity: I love coffee!!
 
 <div>
   <a href="https://github.com/brunodleite">
