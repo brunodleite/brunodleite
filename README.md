@@ -4,7 +4,7 @@
 
 🔭 Currently working as a Data Analyst.
 
-🔧 Techs and Tools: Python | SQL | 
+🔧 Techs and Tools: Python | SQL 
 
 ☕ Curiosity: I love coffee!!
 
