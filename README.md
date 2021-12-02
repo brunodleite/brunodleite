@@ -1,10 +1,10 @@
-👋 Hello there! My name is Bruno, I'm industrial engineering, data engineering and data science.
+👋 Hello there! My name is Bruno, I'm industrial engineering, data engineering student and data science student.
 
 👀 I’m interested in analysing problems and looking for solutions solve them!
 
-🔭 Currently interning as a Data Scientist and AI developer for Neurowood - Computer Vision
+🔭 Currently working as a Data Analyst.
 
-🔧 Techs and Tools: Python | SQL | JavaScript | HTML
+🔧 Techs and Tools: Python | SQL | 
 
 ☕ Curiosity: I love coffee!!
 
