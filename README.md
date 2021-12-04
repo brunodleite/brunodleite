@@ -6,7 +6,7 @@
 
 🔧 Techs and Tools: Python | SQL 
 
-☕ Curiosity: I love coffee!!
+☕ Curiosity: I love coffee, play guitar, read books..!!
 
 <div>
   <a href="https://github.com/brunodleite">
