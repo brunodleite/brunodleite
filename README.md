@@ -1,4 +1,4 @@
-👋 Hello there! My name is Bruno, I'm industrial engineering, data engineering student and data science student.
+👋 Hello there! My name is Bruno, I'm industrial engineering and data science student.
 
 👀 I’m interested in analysing problems and looking for solutions solve them!
 
